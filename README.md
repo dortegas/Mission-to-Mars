@@ -22,4 +22,4 @@ Mission to Mars Web application mobile-responsive
 
 Web aplication iPad responsive example
 
-<img src="templates/images/mobile.PNG" />
+<img src="templates/images/mobile.PNG" width="600" />
