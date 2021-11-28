@@ -15,3 +15,7 @@ This project is based on BeautifulSoup and Splinter to scrape full-resolution im
     - https://marshemispheres.com/
 
 ## Results
+
+Mission to Mars Web application mobile-responsive:
+
+<img src="templates/images/mission_to_mars.PNG" />
