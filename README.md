@@ -8,6 +8,10 @@ This project is based on BeautifulSoup and Splinter to scrape full-resolution im
   - Web Server: Flask
   - DBMS: MongoDB 5.0.4
   - Standars: HTML5 and Bootstrap 3
-  - Web pages scraped: https://redplanetscience.com https://spaceimages-mars.com https://galaxyfacts-mars.com https://marshemispheres.com/
+  - Web pages scraped: 
+    - https://redplanetscience.com 
+    - https://spaceimages-mars.com 
+    - https://galaxyfacts-mars.com 
+    - https://marshemispheres.com/
 
 ## Results
