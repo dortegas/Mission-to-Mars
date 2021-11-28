@@ -16,10 +16,10 @@ This project is based on BeautifulSoup and Splinter to scrape full-resolution im
 
 ## Results
 
-Mission to Mars Web application mobile-responsive
+  - Mission to Mars Web application mobile-responsive
 
 <img src="templates/images/mission_to_mars.PNG" />
 
-Web aplication iPad responsive example
+  - Web aplication iPad responsive example
 
 <img src="templates/images/mobile.PNG" width="300" />
